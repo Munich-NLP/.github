@@ -1,4 +1,4 @@
-<h3 align="center">Hallo und Herzlich Wilkommen to Munich🥨NLP community!</h3>
+<h3 align="center">Hallo und Herzlich Willkommen the to Munich🥨NLP community!</h3>
 
 <h3 align="center"> Language is at the heart of human intelligence. It therefore is and must be at the heart of our efforts to build artificial intelligence. We founded this community to discuss latest developments and also stimulate exchange on research and innovation around NLP. 
 Join the Munich NLP discord community to learn and exchange about Natural Language Processing, Machine Learning, AI, and related topics.
