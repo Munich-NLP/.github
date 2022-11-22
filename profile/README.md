@@ -17,8 +17,9 @@ We are looking for sponsors, if interested, drop us a line to munichnlp@gmail.co
 <a href="https://www.youtube.com/c/ucmprqbcw7doixsywpgywk3q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmprqbcw7doixsywpgywk3q" height="30" width="40" /></a>
 <a href="https://discord.gg/BgFaZgZ38N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BgFaZgZ38N" height="30" width="40" /></a>
 </p>
+<h3 align="center">Our Website:</h3>
 <p align="center">
-<a href="https://munich-nlp.github.io/"><h3 align="center">Our Website:</h3></a>
+<a href="https://munich-nlp.github.io/">https://munich-nlp.github.io/</a>
 </p>
 
 <!--
