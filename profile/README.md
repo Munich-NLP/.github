@@ -9,7 +9,7 @@ We are looking for sponsors, if interested, drop us a line to munichnlp@gmail.co
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munich-nlp&label=Profile%20views&color=0e75b6&style=flat" alt="munich-nlp" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=munich-nlp&label=Profile%20views&color=0e75b6&style=flat" alt="munich-nlp" /> </p>
 
 <h3 align="center">Connect with Us:</h3>
 <p align="center">
@@ -17,9 +17,9 @@ We are looking for sponsors, if interested, drop us a line to munichnlp@gmail.co
 <a href="https://www.youtube.com/c/ucmprqbcw7doixsywpgywk3q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmprqbcw7doixsywpgywk3q" height="30" width="40" /></a>
 <a href="https://discord.gg/BgFaZgZ38N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BgFaZgZ38N" height="30" width="40" /></a>
 </p>
-<h3 align="center">Our Website:</h3>
+<h3 align="center">Visit Our Website:</h3>
 <p align="center">
-<a href="https://munich-nlp.github.io/">https://munich-nlp.github.io/</a>
+<a href="https://munich-nlp.github.io/">munich-nlp.github.io/</a>
 </p>
 
 <!--
