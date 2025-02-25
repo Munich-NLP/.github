@@ -10,7 +10,7 @@
 </p>
 <h3 align="center">Visit our Website:</h3>
 <p align="center">
-<a href="https://munich-nlp.github.io/">munich-nlp.github.io/</a>
+<a href="https://munich-nlp.com/">🌐 munich-nlp.com</a>
 </p>
 
 <!--
